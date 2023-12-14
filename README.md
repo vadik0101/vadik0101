@@ -1,7 +1,7 @@
-# Full-Stack web and mobile app developer with latest technologies
+# Senior Frontend focused Full-Stack web and web3 developer with latest technologies
 <br />
 
-🔭 As a professional full stack web and mobile app developer with 7+ years of experience, I'm proficient in the development of SPAs using popular JavaScript frameworks such as React/Next.js, React Native, Vue.js/Nuxt.js/Quasar/VuePress for frontend, and Node.js/Express/Nest.js, PHP/Laravel, Python/Django for backend.
+🔭 As a professional full stack web and web3 developer with 7+ years of experience, I'm proficient in the development of SPAs using popular JavaScript frameworks such as React/Next.js, React Native, Vue.js/Nuxt.js/Quasar/VuePress, web3.js for frontend, and Node.js/Express/Nest.js, PHP/Laravel, Python/Django for backend.
 <br />
 
 ⚡ Main Skills
@@ -10,6 +10,7 @@
 - JavaScript(ES6+) / TypeScript
 - React.js / Next.js
 - Vue.js / Nuxt.js / Quasar
+- Web3.js 
 - Bootstrap 4+ / Tailwind CSS
 - Material UI / Chakra UI
 - Ant Design / Vuetify
